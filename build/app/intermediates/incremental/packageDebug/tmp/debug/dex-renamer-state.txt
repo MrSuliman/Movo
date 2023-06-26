@@ -1,0 +1,4 @@
+#Tue Jun 27 00:38:02 EET 2023
+base.0=C\:\\Learn_Flutter\\Completed\\movo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Wed Feb 22 22:00:39 EET 2023
+base.0=C\:\\Learn_Flutter\\movo\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

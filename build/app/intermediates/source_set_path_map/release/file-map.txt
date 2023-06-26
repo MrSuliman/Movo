@@ -1,0 +1,15 @@
+com.example.movo.app-main-0 C:\Learn_Flutter\movo\android\app\src\main\res
+com.example.movo.app-release-1 C:\Learn_Flutter\movo\android\app\src\release\res
+com.example.movo.app-pngs-2 C:\Learn_Flutter\movo\build\app\generated\res\pngs\release
+com.example.movo.app-resValues-3 C:\Learn_Flutter\movo\build\app\generated\res\resValues\release
+com.example.movo.app-rs-4 C:\Learn_Flutter\movo\build\app\generated\res\rs\release
+com.example.movo.app-mergeReleaseResources-5 C:\Learn_Flutter\movo\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.movo.app-mergeReleaseResources-6 C:\Learn_Flutter\movo\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.movo.app-merged_res-7 C:\Learn_Flutter\movo\build\app\intermediates\merged_res\release
+com.example.movo.app-packaged_res-8 C:\Learn_Flutter\movo\build\flutter_native_splash\intermediates\packaged_res\release
+com.example.movo.app-packaged_res-9 C:\Learn_Flutter\movo\build\path_provider_android\intermediates\packaged_res\release
+com.example.movo.app-packaged_res-10 C:\Learn_Flutter\movo\build\sqflite\intermediates\packaged_res\release
+com.example.movo.app-jetified-window-java-1.0.0-beta04-11 C:\Users\ninja\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.movo.app-core-1.6.0-12 C:\Users\ninja\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.movo.app-jetified-annotation-experimental-1.1.0-13 C:\Users\ninja\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.movo.app-jetified-window-1.0.0-beta04-14 C:\Users\ninja\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
